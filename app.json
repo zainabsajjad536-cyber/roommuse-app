@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "RoomMuse",
+    "slug": "home-ai-ai-interior-design",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "68f6ad7a-f4f5-4ddd-b808-49bdbef6f781"
+      }
+    },
+    "android": {
+      "package": "com.zainabsajjad.workspace"
+    },
+    "ios": {
+      "bundleIdentifier": "com.zainabsajjad.workspace"
+    }
+  }
+}
