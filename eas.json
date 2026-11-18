@@ -5,6 +5,7 @@
   },
   "build": {
     "production": {
+      "image": "latest",
       "node": "20.19.4",
       "autoIncrement": true,
       "android": {
